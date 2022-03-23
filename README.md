@@ -1,5 +1,5 @@
 # Cryptography-Engineering
-NYCU 110 上 / professor: 謝致仁 
+NYCU 110 下 / professor: 謝致仁 
 
 ### Quiz 1
 - the numbers of letters appearance in the ciphertext
