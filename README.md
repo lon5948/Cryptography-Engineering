@@ -14,4 +14,7 @@ NYCU 110 下 / professor: 謝致仁
 - recover to the plaintext
 
 ### Quiz 4
-- M
+- Markov
+
+### Quiz 5
+- md5
