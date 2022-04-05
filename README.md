@@ -19,6 +19,3 @@ NYCU 110 下 / professor: 謝致仁
 ### Quiz 5
 - md5
 
----
-### Paper 1 
-- Honeywords: Making password-cracking detectable
