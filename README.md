@@ -19,3 +19,7 @@ NYCU 110 下 / professor: 謝致仁
 ### Quiz 5
 - md5
 
+### Quiz 6
+- MCMC
+
+
