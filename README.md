@@ -22,4 +22,7 @@ NYCU 110 下 / professor: 謝致仁
 ### Quiz 6
 - MCMC
 
+### Quiz 7
+- Berlekamp Massey algorithm
+
 
